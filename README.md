@@ -18,23 +18,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-# 👷 Como rodar
+## 👷 Como rodar
 
-# Clone o Repositório
+Clone o Repositório
 
 \$ git clone https://github.com/K4ME/Proffy.git
 
 # 📦 Rodar API
 
-# Vá para a pasta do servidor
+### Vá para a pasta do servidor
 
 \$ cd Proffy/server
 
-# Instale as depedencias
+### Instale as depedencias
 
 \$ yarn install
 
-# Rode a aplicação
+### Rode a aplicação
 
 \$ yarn start
 
