@@ -1,15 +1,14 @@
-## Logo do Projeto
+<!---Logo do Projeto -->
 
 #<p align="center" >
 ![Alt text](./logo.png?raw=true "Proffy")
 
 </p>
 
-## Descrição do Projeto
-
+<!--- Descrição do Projeto-->
 <p align="center">Projeto feito para unir professores e alunos, desenvolvido na Next Level Week #2 </p>
 
-# 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
