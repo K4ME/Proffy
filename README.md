@@ -72,4 +72,4 @@ Para rodar o projeto mobile você precisa de um celular com o expo instalado ou 
 
 \$ yarn start
 
-### leia o QRCode com o app do expo ou rode em um emulador.
+leia o QRCode com o app do expo ou rode em um emulador.
