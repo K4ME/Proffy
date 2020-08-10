@@ -8,6 +8,14 @@
 <!--- Descrição do Projeto-->
 <p align="center">Projeto feito para unir professores e alunos, desenvolvido na Next Level Week #2 </p>
 
+## Web Screenshot
+
+#<p align="center" >
+![Alt text](./web-landing.png?raw=true "Web-landing")
+![Alt text](./web-list.png?raw=true "Web-list")
+
+</p>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
