@@ -24,7 +24,7 @@ Clone o Repositório
 
 \$ git clone https://github.com/K4ME/Proffy.git
 
-# 📦 Rodar API
+## 📦 Rodar API
 
 ### Vá para a pasta do servidor
 
@@ -39,3 +39,37 @@ Clone o Repositório
 \$ yarn start
 
 ### Acesse a API: http://localhost:3333/
+
+## 💻 Rode o Project Web
+
+### Vá para a pasta web
+
+\$ cd Proffy/web
+
+### Instale as depedencias
+
+\$ yarn install
+
+### Rode a aplicação
+
+\$ yarn start
+
+### Acesse: http://localhost:3000/ para ver o resultado.
+
+## 📱 Run Mobile Project
+
+Para rodar o projeto mobile você precisa de um celular com o expo instalado ou um emulador android/ios.
+
+# Vá para a pasta mobile
+
+\$ cd Proffy/mobile
+
+# Instale as depedencias
+
+\$ yarn install
+
+# Rode a aplicação
+
+\$ yarn start
+
+leia o QRCode com o app do expo ou rode em um emulador.
