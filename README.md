@@ -60,15 +60,15 @@ Clone o Repositório
 
 Para rodar o projeto mobile você precisa de um celular com o expo instalado ou um emulador android/ios.
 
-# Vá para a pasta mobile
+### Vá para a pasta mobile
 
 \$ cd Proffy/mobile
 
-# Instale as depedencias
+### Instale as depedencias
 
 \$ yarn install
 
-# Rode a aplicação
+### Rode a aplicação
 
 \$ yarn start
 
