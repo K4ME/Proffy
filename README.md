@@ -9,7 +9,7 @@
 
 ## Imagens frontend WEB
 <p align="center" >
-<img src="web-landing.png" alt="web-landing" width="425"/> <img src="web-list.png" alt="web-list" width="425"/> 
+<img src="web-landing.png" alt="web-landing" width="360"/> <img src="web-list.png" alt="web-list" width="360"/> 
 </p>
 
 ## 🛠 Tecnologias
