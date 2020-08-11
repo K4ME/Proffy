@@ -11,8 +11,8 @@
 ## Web Screenshot
 
 #<p align="center" >
-![Alt text](./web-landing.png?raw=true "Web-landing")
-![Alt text](./web-list.png?raw=true "Web-list")
+![Alt text](./web-landing.png?raw=true "Web-landing") ![Alt text](./web-list.png?raw=true "Web-list")
+
 
 </p>
 
